@@ -36,3 +36,6 @@ CSV Files → Bronze Tables → Silver Tables → Gold KPIs
 * Power BI Dashboard
 * AI-based Insights
 * n8n Automation
+
+## Git Practice
+This section is added from feature branch workflow.
